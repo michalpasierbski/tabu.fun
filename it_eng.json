@@ -1,0 +1,893 @@
+[
+  {
+    "word": "BIOS",
+    "banned1": "software",
+    "banned2": "control",
+    "banned3": "computer",
+    "banned4": "RAM",
+    "banned5": "boost",
+    "banned6": "settings"
+  },
+  {
+    "word": "router",
+    "banned1": "switch",
+    "banned2": "internet",
+    "banned3": "wireless",
+    "banned4": "network",
+    "banned5": "ethernet",
+    "banned6": "radio"
+  },
+  {
+    "word": "pixel",
+    "banned1": "RGB",
+    "banned2": "monitor",
+    "banned3": "screen",
+    "banned4": "square",
+    "banned5": "phone",
+    "banned6": ""
+  },
+  {
+    "word": "compiler",
+    "banned1": "programming",
+    "banned2": "execute",
+    "banned3": "C/C++",
+    "banned4": "code",
+    "banned5": "compile",
+    "banned6": ""
+  },
+  {
+    "word": "meme",
+    "banned1": "funny",
+    "banned2": "image",
+    "banned3": "gif",
+    "banned4": "send",
+    "banned5": "",
+    "banned6": ""
+  },
+  {
+    "word": "snapchat",
+    "banned1": "ghost",
+    "banned2": "app",
+    "banned3": "phone",
+    "banned4": "disappear",
+    "banned5": "photo",
+    "banned6": "screenshot"
+  },
+  {
+    "word": "keyboard",
+    "banned1": "type",
+    "banned2": "key",
+    "banned3": "press",
+    "banned4": "mouse",
+    "banned5": "computer",
+    "banned6": "piano"
+  },
+  {
+    "word": "FAQ",
+    "banned1": "question",
+    "banned2": "base",
+    "banned3": "answer",
+    "banned4": "ask",
+    "banned5": "problem",
+    "banned6": "forum"
+  },
+  {
+    "word": "graphic card",
+    "banned1": "AMD",
+    "banned2": "Gigabyte",
+    "banned3": "game",
+    "banned4": "motherboard",
+    "banned5": "port",
+    "banned6": ""
+  },
+  {
+    "word": "C++",
+    "banned1": "programming",
+    "banned2": "language",
+    "banned3": "compiler",
+    "banned4": "code",
+    "banned5": "hello world",
+    "banned6": "cin/cout"
+  },
+  {
+    "word": "VR googles",
+    "banned1": "Playstation",
+    "banned2": "virtual reality",
+    "banned3": "eyes",
+    "banned4": "head",
+    "banned5": "glasses",
+    "banned6": "game"
+  },
+  {
+    "word": "bitcoin",
+    "banned1": "money",
+    "banned2": "cryptocurrency",
+    "banned3": "virtual",
+    "banned4": "darkweb",
+    "banned5": "payment",
+    "banned6": "dogecoin"
+  },
+  {
+    "word": "website",
+    "banned1": "site",
+    "banned2": "internet",
+    "banned3": "domain",
+    "banned4": "shop",
+    "banned5": "online",
+    "banned6": "browser"
+  },
+  {
+    "word": "cloud",
+    "banned1": "sky",
+    "banned2": "data",
+    "banned3": "internet",
+    "banned4": "hard drive",
+    "banned5": "store",
+    "banned6": "collect"
+  },
+  {
+    "word": "monitor",
+    "banned1": "display",
+    "banned2": "rgb",
+    "banned3": "screen",
+    "banned4": "computer",
+    "banned5": "pixel",
+    "banned6": ""
+  },
+  {
+    "word": "speaker",
+    "banned1": "audio",
+    "banned2": "music",
+    "banned3": "sound",
+    "banned4": "device",
+    "banned5": "jack",
+    "banned6": "microphone"
+  },
+  {
+    "word": "cache",
+    "banned1": "memory",
+    "banned2": "fast",
+    "banned3": "cpu",
+    "banned4": "speed",
+    "banned5": "RAM",
+    "banned6": "temporairly"
+  },
+  {
+    "word": "framework",
+    "banned1": "website",
+    "banned2": "design",
+    "banned3": "extension",
+    "banned4": "python",
+    "banned5": "javascript",
+    "banned6": ""
+  },
+  {
+    "word": "LED",
+    "banned1": "light",
+    "banned2": "RGB",
+    "banned3": "computer",
+    "banned4": "gaming",
+    "banned5": "color",
+    "banned6": "shiny"
+  },
+  {
+    "word": "SSH",
+    "banned1": "remote",
+    "banned2": "access",
+    "banned3": "port",
+    "banned4": "connect",
+    "banned5": "PuTTY",
+    "banned6": "console"
+  },
+  {
+    "word": "steam",
+    "banned1": "games",
+    "banned2": "shop",
+    "banned3": "store",
+    "banned4": "Valve",
+    "banned5": "train",
+    "banned6": "sales"
+  },
+  {
+    "word": "pipe",
+    "banned1": "keyboard",
+    "banned2": "key",
+    "banned3": "mario",
+    "banned4": "button",
+    "banned5": "vertical",
+    "banned6": "space"
+  },
+  {
+    "word": "e-mail",
+    "banned1": "message",
+    "banned2": "electronic",
+    "banned3": "send",
+    "banned4": "internet",
+    "banned5": "at",
+    "banned6": "contact"
+  },
+  {
+    "word": "minesweeper",
+    "banned1": "bombs",
+    "banned2": "flags",
+    "banned3": "Windows XP",
+    "banned4": "field",
+    "banned5": "game",
+    "banned6": "time"
+  },
+  {
+    "word": "codec",
+    "banned1": "encoder/decoder",
+    "banned2": "program",
+    "banned3": "video",
+    "banned4": "audio",
+    "banned5": "player",
+    "banned6": "play"
+  },
+  {
+    "word": "xampp",
+    "banned1": "website",
+    "banned2": "software",
+    "banned3": "apache",
+    "banned4": "server",
+    "banned5": "localhost",
+    "banned6": "apache"
+  },
+  {
+    "word": "cybertruck",
+    "banned1": "Elon Musk",
+    "banned2": "Tesla",
+    "banned3": "meme",
+    "banned4": "SpaceX",
+    "banned5": "car",
+    "banned6": "vehicle"
+  },
+  {
+    "word": "Doom",
+    "banned1": "game",
+    "banned2": "old",
+    "banned3": "shotgun",
+    "banned4": "fps",
+    "banned5": 1993,
+    "banned6": ""
+  },
+  {
+    "word": "python",
+    "banned1": "programming",
+    "banned2": "code",
+    "banned3": "language",
+    "banned4": "snake",
+    "banned5": "compiler",
+    "banned6": "C/C++"
+  },
+  {
+    "word": "full duplex",
+    "banned1": "connection",
+    "banned2": "simultaneous",
+    "banned3": "switch",
+    "banned4": "duplex",
+    "banned5": "",
+    "banned6": ""
+  },
+  {
+    "word": "grid",
+    "banned1": "html",
+    "banned2": "css",
+    "banned3": "flex",
+    "banned4": "page",
+    "banned5": "content",
+    "banned6": "responsive"
+  },
+  {
+    "word": "for",
+    "banned1": "loop",
+    "banned2": "while",
+    "banned3": "variable",
+    "banned4": "php",
+    "banned5": "C/C++",
+    "banned6": ""
+  },
+  {
+    "word": "icon",
+    "banned1": "picture",
+    "banned2": "miniature",
+    "banned3": "website",
+    "banned4": "desktop",
+    "banned5": "shortcut",
+    "banned6": ""
+  },
+  {
+    "word": "skin",
+    "banned1": "CS:GO",
+    "banned2": "Minecraft",
+    "banned3": "game",
+    "banned4": "weapon",
+    "banned5": "knife",
+    "banned6": "colors"
+  },
+  {
+    "word": "smartwatch",
+    "banned1": "band",
+    "banned2": "time",
+    "banned3": "arm",
+    "banned4": "device",
+    "banned5": "portable",
+    "banned6": "wrist"
+  },
+  {
+    "word": "printer",
+    "banned1": "print",
+    "banned2": "document",
+    "banned3": "paper",
+    "banned4": "ink",
+    "banned5": "device",
+    "banned6": "loud"
+  },
+  {
+    "word": "wallpaper",
+    "banned1": "background",
+    "banned2": "photo",
+    "banned3": "image",
+    "banned4": "desktop",
+    "banned5": "Windows",
+    "banned6": "screen"
+  },
+  {
+    "word": "screenshot",
+    "banned1": "printscreen",
+    "banned2": "key",
+    "banned3": "snip",
+    "banned4": "snapchat",
+    "banned5": "preview",
+    "banned6": ""
+  },
+  {
+    "word": "Minecraft",
+    "banned1": "block",
+    "banned2": "game",
+    "banned3": "cube",
+    "banned4": "crafting",
+    "banned5": "old",
+    "banned6": "build"
+  },
+  {
+    "word": "benchmark",
+    "banned1": "test",
+    "banned2": "performance",
+    "banned3": "speed",
+    "banned4": "hardware",
+    "banned5": "",
+    "banned6": ""
+  },
+  {
+    "word": "Paysafecard",
+    "banned1": "payment",
+    "banned2": "money",
+    "banned3": "code",
+    "banned4": "online",
+    "banned5": "bill/receipt",
+    "banned6": ""
+  },
+  {
+    "word": "YouTube",
+    "banned1": "watch",
+    "banned2": "video",
+    "banned3": "online",
+    "banned4": "gaming",
+    "banned5": "content",
+    "banned6": "creator"
+  },
+  {
+    "word": "SPAM",
+    "banned1": "unwanted",
+    "banned2": "message",
+    "banned3": "trash",
+    "banned4": "junk",
+    "banned5": "e-mail",
+    "banned6": "folder"
+  },
+  {
+    "word": "gaming chair",
+    "banned1": "games",
+    "banned2": "chair",
+    "banned3": "sit",
+    "banned4": "comfortable",
+    "banned5": "desk",
+    "banned6": "stool"
+  },
+  {
+    "word": "Google Chrome",
+    "banned1": "internet",
+    "banned2": "browse",
+    "banned3": "Firefox",
+    "banned4": "Edge",
+    "banned5": "page",
+    "banned6": "website"
+  },
+  {
+    "word": "control panel",
+    "banned1": "settings",
+    "banned2": "Windows",
+    "banned3": "change",
+    "banned4": "software",
+    "banned5": "modify",
+    "banned6": "computer"
+  },
+  {
+    "word": "password",
+    "banned1": "account",
+    "banned2": "protect",
+    "banned3": "secret",
+    "banned4": "access",
+    "banned5": "secure",
+    "banned6": "login"
+  },
+  {
+    "word": "React",
+    "banned1": "javascript",
+    "banned2": "framework",
+    "banned3": "facebook",
+    "banned4": "component",
+    "banned5": "node",
+    "banned6": ""
+  },
+  {
+    "word": "Kubernetes",
+    "banned1": "docker",
+    "banned2": "containers",
+    "banned3": "Devops",
+    "banned4": "management",
+    "banned5": "Google",
+    "banned6": ""
+  },
+  {
+    "word": "C",
+    "banned1": "C++",
+    "banned2": "low-level",
+    "banned3": "programming",
+    "banned4": "python",
+    "banned5": "compile",
+    "banned6": "gcc"
+  },
+  {
+    "word": "spotted",
+    "banned1": "community",
+    "banned2": "share",
+    "banned3": "photos",
+    "banned4": "anonymous",
+    "banned5": "school",
+    "banned6": "news"
+  },
+  {
+    "word": "subscription",
+    "banned1": "YouTube",
+    "banned2": "button",
+    "banned3": "follow",
+    "banned4": "channel",
+    "banned5": "Twitch",
+    "banned6": "notification"
+  },
+  {
+    "word": "microtransaction",
+    "banned1": "payment",
+    "banned2": "in-app",
+    "banned3": "bank",
+    "banned4": "buy",
+    "banned5": "currency",
+    "banned6": "item"
+  },
+  {
+    "word": "glitch",
+    "banned1": "bug",
+    "banned2": "error",
+    "banned3": "software",
+    "banned4": "game",
+    "banned5": "mistake",
+    "banned6": "cheat"
+  },
+  {
+    "word": "Linux",
+    "banned1": "OS",
+    "banned2": "penguin",
+    "banned3": "Windows",
+    "banned4": "server",
+    "banned5": "alternative",
+    "banned6": "free"
+  },
+  {
+    "word": "switch",
+    "banned1": "router",
+    "banned2": "network",
+    "banned3": "device",
+    "banned4": "exam",
+    "banned5": "internet",
+    "banned6": "network"
+  },
+  {
+    "word": "messenger",
+    "banned1": "message",
+    "banned2": "send",
+    "banned3": "receive",
+    "banned4": "photos",
+    "banned5": "text",
+    "banned6": "SMS"
+  },
+  {
+    "word": "controller",
+    "banned1": "games",
+    "banned2": "button",
+    "banned3": "console",
+    "banned4": "joystick",
+    "banned5": "steer",
+    "banned6": ""
+  },
+  {
+    "word": "crack",
+    "banned1": "illegal",
+    "banned2": "copy",
+    "banned3": "game",
+    "banned4": "buy",
+    "banned5": "free",
+    "banned6": "program"
+  },
+  {
+    "word": "margin",
+    "banned1": "text",
+    "banned2": "word",
+    "banned3": "page",
+    "banned4": "space",
+    "banned5": "padding",
+    "banned6": "paragraph"
+  },
+  {
+    "word": "case",
+    "banned1": "phone",
+    "banned2": "safe",
+    "banned3": "guard",
+    "banned4": "protect",
+    "banned5": "box",
+    "banned6": ""
+  },
+  {
+    "word": "Twitter",
+    "banned1": "social media",
+    "banned2": "blue",
+    "banned3": "bird",
+    "banned4": "celebrity",
+    "banned5": "tweet",
+    "banned6": "share"
+  },
+  {
+    "word": "tutorial",
+    "banned1": "video",
+    "banned2": "watch",
+    "banned3": "guide",
+    "banned4": "help",
+    "banned5": "youtube",
+    "banned6": "indian"
+  },
+  {
+    "word": "asterisk",
+    "banned1": "keyboard",
+    "banned2": "star",
+    "banned3": "char",
+    "banned4": "key",
+    "banned5": "button",
+    "banned6": "pointer"
+  },
+  {
+    "word": "basic",
+    "banned1": "language",
+    "banned2": "programming",
+    "banned3": "mainframe",
+    "banned4": "simple",
+    "banned5": "visual",
+    "banned6": "primitive"
+  },
+  {
+    "word": "touchpad",
+    "banned1": "mouse",
+    "banned2": "click",
+    "banned3": "move",
+    "banned4": "pad",
+    "banned5": "laptop",
+    "banned6": "trackpoint"
+  },
+  {
+    "word": "host",
+    "banned1": "server",
+    "banned2": "data",
+    "banned3": "transfer",
+    "banned4": "mac",
+    "banned5": "connect",
+    "banned6": "IP"
+  },
+  {
+    "word": "fake news",
+    "banned1": "lie",
+    "banned2": true,
+    "banned3": "information",
+    "banned4": false,
+    "banned5": "internet",
+    "banned6": "cheat"
+  },
+  {
+    "word": "Intel",
+    "banned1": "processor",
+    "banned2": "AMD",
+    "banned3": "overclocking",
+    "banned4": "cpu",
+    "banned5": "core",
+    "banned6": "company"
+  },
+  {
+    "word": "MySQL",
+    "banned1": "database",
+    "banned2": "access",
+    "banned3": "query",
+    "banned4": "record",
+    "banned5": "table",
+    "banned6": "data"
+  },
+  {
+    "word": "SSD",
+    "banned1": "flash",
+    "banned2": "memory",
+    "banned3": "sata",
+    "banned4": "drive",
+    "banned5": "HDD",
+    "banned6": "disc"
+  },
+  {
+    "word": "Discord",
+    "banned1": "talk",
+    "banned2": "channel",
+    "banned3": "meme",
+    "banned4": "moderator",
+    "banned5": "voice",
+    "banned6": "chat"
+  },
+  {
+    "word": "scam",
+    "banned1": "advert",
+    "banned2": "fake",
+    "banned3": "money",
+    "banned4": "steal",
+    "banned5": "call",
+    "banned6": "influencer"
+  },
+  {
+    "word": "double click",
+    "banned1": "mouse",
+    "banned2": "button",
+    "banned3": "simple",
+    "banned4": "single",
+    "banned5": "open",
+    "banned6": "key"
+  },
+  {
+    "word": "cryptocurrency",
+    "banned1": "bitcoin",
+    "banned2": "money",
+    "banned3": "mine",
+    "banned4": "trade",
+    "banned5": "buy",
+    "banned6": "illegal"
+  },
+  {
+    "word": "framerate",
+    "banned1": "frame",
+    "banned2": "fast",
+    "banned3": "move",
+    "banned4": "FPS",
+    "banned5": "second",
+    "banned6": "display"
+  },
+  {
+    "word": "brackets",
+    "banned1": "editor",
+    "banned2": "HTML",
+    "banned3": "open-source",
+    "banned4": "Adobe",
+    "banned5": "code",
+    "banned6": "free"
+  },
+  {
+    "word": "influencer",
+    "banned1": "person",
+    "banned2": "opinion",
+    "banned3": "young",
+    "banned4": "teenager",
+    "banned5": "video",
+    "banned6": "famous"
+  },
+  {
+    "word": "hacker",
+    "banned1": "Mr robot",
+    "banned2": "computer",
+    "banned3": "hacking",
+    "banned4": "code",
+    "banned5": "data",
+    "banned6": "access"
+  },
+  {
+    "word": "ajax",
+    "banned1": "javascript",
+    "banned2": "xml",
+    "banned3": "async",
+    "banned4": "technology",
+    "banned5": "client",
+    "banned6": "server"
+  },
+  {
+    "word": "safari",
+    "banned1": "browser",
+    "banned2": "Africa",
+    "banned3": "wild",
+    "banned4": "animals",
+    "banned5": "Apple",
+    "banned6": "Chrome"
+  },
+  {
+    "word": "GitHub",
+    "banned1": "git",
+    "banned2": "merge",
+    "banned3": "software",
+    "banned4": "publish",
+    "banned5": "open source",
+    "banned6": "code"
+  },
+  {
+    "word": "AFK",
+    "banned1": "idle",
+    "banned2": "seful",
+    "banned3": "disconnect",
+    "banned4": "troll",
+    "banned5": "base",
+    "banned6": "game"
+  },
+  {
+    "word": "darknet",
+    "banned1": "illegal",
+    "banned2": "organs",
+    "banned3": "tor",
+    "banned4": "drugs",
+    "banned5": "onion",
+    "banned6": "hidden"
+  },
+  {
+    "word": "bug",
+    "banned1": "error",
+    "banned2": "mistake",
+    "banned3": "software",
+    "banned4": "insect",
+    "banned5": "program",
+    "banned6": "fail"
+  },
+  {
+    "word": "emoji",
+    "banned1": "smile",
+    "banned2": "symbol",
+    "banned3": "keyboard",
+    "banned4": "emotion",
+    "banned5": "sticker",
+    "banned6": "picture"
+  },
+  {
+    "word": "newbie",
+    "banned1": "someonee",
+    "banned2": "start",
+    "banned3": "begin",
+    "banned4": "person",
+    "banned5": "game",
+    "banned6": "noob"
+  },
+  {
+    "word": "hackaton",
+    "banned1": "games",
+    "banned2": "marathon",
+    "banned3": "24h",
+    "banned4": "develop",
+    "banned5": "code",
+    "banned6": "create"
+  },
+  {
+    "word": "grind",
+    "banned1": "exp",
+    "banned2": "gold",
+    "banned3": "quest",
+    "banned4": "repeat",
+    "banned5": "farm",
+    "banned6": ""
+  },
+  {
+    "word": "troll",
+    "banned1": "joke",
+    "banned2": "person",
+    "banned3": "fake",
+    "banned4": "argue",
+    "banned5": "internet",
+    "banned6": ""
+  },
+  {
+    "word": "rust",
+    "banned1": "programming",
+    "banned2": "language",
+    "banned3": "low-level",
+    "banned4": "code",
+    "banned5": "safety",
+    "banned6": ""
+  },
+  {
+    "word": "commodore",
+    "banned1": 64,
+    "banned2": "PC",
+    "banned3": "80's",
+    "banned4": "basic",
+    "banned5": "retro",
+    "banned6": ""
+  },
+  {
+    "word": "zoom",
+    "banned1": "view",
+    "banned2": "increase",
+    "banned3": "optical",
+    "banned4": "big",
+    "banned5": "magnify",
+    "banned6": "extend"
+  },
+  {
+    "word": "ringtone",
+    "banned1": "phone",
+    "banned2": "call",
+    "banned3": "melody",
+    "banned4": "alarm",
+    "banned5": "ring",
+    "banned6": "notify"
+  },
+  {
+    "word": "bluetooth",
+    "banned1": "phone",
+    "banned2": "wireless",
+    "banned3": "headset",
+    "banned4": "ear",
+    "banned5": "connect",
+    "banned6": "send"
+  },
+  {
+    "word": "virus",
+    "banned1": "damage",
+    "banned2": "download",
+    "banned3": "programming",
+    "banned4": "infect",
+    "banned5": "dangerous",
+    "banned6": "malware"
+  },
+  {
+    "word": "root",
+    "banned1": "damin",
+    "banned2": "linux",
+    "banned3": "superuser",
+    "banned4": "system",
+    "banned5": "user",
+    "banned6": "sudo"
+  },
+  {
+    "word": "headphones",
+    "banned1": "sound",
+    "banned2": "music",
+    "banned3": "earphone",
+    "banned4": "listen",
+    "banned5": "headset",
+    "banned6": "microphone"
+  },
+  {
+    "word": "motherboard",
+    "banned1": "socket",
+    "banned2": "hardware",
+    "banned3": "computer",
+    "banned4": "part",
+    "banned5": "bios",
+    "banned6": "interface"
+  }
+]

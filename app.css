@@ -1,0 +1,168 @@
+h1 {
+    font-family: 'Galindo', cursive;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 4px 4px 4px #00000080;
+}
+body {
+    background-color: rgb(0,183,96);
+    cursor: default;
+    margin: 0;
+    color:#333;
+}
+main, .game, .time-up {
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px #00000020;
+    width: 500px;
+    margin: auto;
+    max-width: calc(100vw - 80px);
+    font-family: sans-serif;
+}
+select, button {
+    display: block;
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    font-family: "Galindo";
+    font-size: 20px;
+    border: 2px solid rgb(0,183,96);
+    color: #333;
+    background-color: white;
+}
+button {
+    background-color: rgb(0,183,96);
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 15px;
+    padding: 7px;
+}
+.loader {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+.loader > div {
+    font-size: 110px;
+    font-family: "Galindo";
+    color: white;
+    text-shadow: 4px 4px 4px #00000080;
+    text-align: center;
+
+}
+.game, .time-up {
+    display: none;
+}
+.question-answer {
+    color: #f44336;
+    font-family: 'Galindo';
+    text-align: center;
+}
+.question-text {
+    text-align: center;
+    font-family: 'Galindo';
+    font-size: 45px;
+    color: #00b760;
+    text-shadow: 4px 4px 4px #00000020;
+    margin-bottom: 30px;
+}
+.success-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.success-button button {
+    background-color: #00b760;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 7px;
+}
+.timebar {
+    position: relative;
+    width: 100%;
+    height: 10px;
+    background-color: #9e9e9e;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.timebar-fill {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    background-color: #f44336;
+    border-radius: 5px;
+}
+.timesup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 2;
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+.timesup div {
+    font-size: 90px;
+    font-family: "Galindo";
+    color: white;
+    text-shadow: 4px 4px 4px #00000080;
+    text-align: center;
+}
+.timesup button {
+    background-color: #00b760;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 7px;
+}
+.time-up-text {
+    font-size: 30px;
+    font-family: 'Galindo';
+    color: #f44336;
+    text-shadow: 4px 4px 4px #00000020;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.time-up-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer {
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    margin-top: 30px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+footer a {
+    color: white;
+    text-decoration: none;
+}
+footer a:hover {
+    text-decoration: underline;
+}
